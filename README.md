@@ -4,4 +4,5 @@
 
 [![Línguagens que mais Útilizo](https://github-readme-stats.vercel.app/api/top-langs/?username=Othalescosta)](https://github.com/anuraghazra/github-readme-stats)
 
+
 Olá, bem-vindo(a) ao meu perfil 😉
