@@ -1,5 +1,5 @@
 Olá, bem-vindo(a) ao meu perfil 😉
- * Me chamo Thales Costa** <br>
+ * Me chamo Thales Costa<br>
  * Estudando: Curso Técnico em Informatíca <br>
 * Línguas: Português Fluente, Espanhol Nível Médio <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
